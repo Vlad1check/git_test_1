@@ -7,6 +7,7 @@ class Program
         int a = int.Parse(Console.ReadLine());
         int b = int.Parse(Console.ReadLine());
         int c = a + b;
-        Console.WriteLine(c);
+        Console.WriteLine(c); //all that is trash
+        Console.WriteLine("Eat me");
     }
 }
